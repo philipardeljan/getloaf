@@ -1,1 +1,1 @@
-Empty repo for managing releases of Motion Icons Studio
+Repo for managing the releases of Motion!
